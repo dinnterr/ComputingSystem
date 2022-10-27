@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\ComputingSystemMLFQ\\ComputingSystem\\ComputingSystem.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\ComputingSystem\\ComputingSystem\\ComputingSystem.csproj",
       "projectName": "ComputingSystem",
-      "projectPath": "C:\\Users\\User\\source\\repos\\ComputingSystemMLFQ\\ComputingSystem\\ComputingSystem.csproj",
+      "projectPath": "C:\\Users\\User\\source\\repos\\ComputingSystem\\ComputingSystem\\ComputingSystem.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\ComputingSystemMLFQ\\ComputingSystem\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\ComputingSystem\\ComputingSystem\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
